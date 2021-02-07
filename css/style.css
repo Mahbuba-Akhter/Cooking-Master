@@ -1,0 +1,8 @@
+body {
+    background-color: #EDD263;
+}
+
+/*default modal body hidden*/
+#modal-body{
+    display: none;
+}
